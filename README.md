@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋
-👉 My name is Angelo. I'm originally from Greece, but live and workin in London.
+👉 My name is Angelo. I'm originally from Greece, but live and work in London.
   
 👉 I'm a freelance Management Consultant, Lead BA/PM and self-taught Data Scientist. 
 
