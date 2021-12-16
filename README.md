@@ -13,7 +13,7 @@
 
 👉 My involvement in Data Science goes back to 2019 when I started learning Python (I did go down the R vs Python existential yes, and guess what :P ), Statistics and Machine Learning, building small projects and honing my skills.
 
-👉This unique blend of soft and technical skills is my sweet spot: it allows me to bridge the gap (⚖) between the Business and Analytics teams and switch gears working with both as required in order to bring critical projects over the line and deliver great value to my Clients 💯!
+👉This unique blend of soft and technical skills is my sweet spot: it allows me to bridge the gap (⚖) between the Business and Analytics teams, switch gears as required in order to bring critical projects over the line and deliver great value to my Clients!
 .
 
 ### About me
