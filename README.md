@@ -1,4 +1,4 @@
- [![Header](https://github.com/etzimopoulos/etzimopoulos/blob/main/EclecticAboutData_White_Large.png#gh-light-mode-only)](https://eclecticaboutdata.com/)
+ [![Header](https://github.com/etzimopoulos/etzimopoulos/blob/main/eclectic.png#gh-light-mode-only)](https://eclecticaboutdata.com/)
 
 <!--<a href="https://eclecticaboutdata.com/"><img src="https://github.com/etzimopoulos/etzimopoulos/blob/main/eclectic.png"> -->
 
