@@ -5,9 +5,9 @@
 
 
 ### Hi there 👋
-👉 My name is Angelo. I'm originally from Greece, but live and work in London.
-  
-👉 I'm a freelance Management Consultant, Lead BA/PM and self-taught Data Scientist. 
+👉 My name is Angelo, originally from Greece (🇬🇷), living and working in London (🇬🇧) for a while now.
+
+👉 I'm currently working as a freelance Consultant, with multiple hats depending on the Client needswhich stem from my experience as a Lead Business Analyst, Project/Delivery Manager and more recently as a self-taught Data Scientist. 
 
 👉 My core experience comes from working in large enterprize technology projects in banks(🏛), data vendors(📊), consultancies or the public sector, implementing Data Analytics solutions, Digital Transformation and Technology Change. 
 
@@ -16,12 +16,11 @@
 👉This unique blend of soft and technical skills is my sweet spot: it allows me to bridge the gap (⚖) between the Business and Analytics teams, switch gears as required in order to bring critical projects over the line and deliver great value to my Clients!
 
 ### About me
-- 🔭 I’m currently working on Fraud Analytics for the Insurance Industry. In plain words: "How to spot Fraud in Insurance Claims"! 
+- 🔭 I’m currently working on Fraud Analytics for the Insurance Industry, in plain words: "How to spot Fraud in Insurance Claims"! 
 - 📈 I'm building my personal website **Eclectic About Data** ![EclecticWebsite][eclectic_logo]
 - 🌱 I’m currently learning Git, Python Software Engineering and Crypto 
 - 👯 I’m looking to collaborate on Open Source projects within the Analytics space
 - 🤔 I’m looking for help with my Software Engineering skills (I'm still learning)
-- 💬 Ask me about: I'm a father of two boys, come from Greece, but live in London
 - 📫 Reach out to on Twitter [![Twitter][twitter_logo]] or LinkedIn [![LinkedIn][Lin_logo]] 
 
 <!-- Icons -->
