@@ -7,11 +7,11 @@
 ### Hi there 👋
 👉 My name is Angelo, originally from Greece (🇬🇷), living and working in London (🇬🇧) for a while now.
 
-👉 I'm currently working as a freelance Consultant, with multiple hats depending on the Client needswhich stem from my experience as a Lead Business Analyst, Project/Delivery Manager and more recently as a self-taught Data Scientist. 
+👉 I'm a freelance Data Management Consultant and self-taught Data Scientist, having also worked as a lead Business Analyst and Project/Delivery Manager in previous lifes. 
 
-👉 My core experience comes from working in large enterprize technology projects in banks(🏛), data vendors(📊), consultancies or the public sector, implementing Data Analytics solutions, Digital Transformation and Technology Change. 
+👉 My core experience comes from working in large enterprize technology initiatives in banks(🏛), data vendors(📊), consultancies or the public sector, implementing Data Analytics solutions, Digital Transformation and Technology Change. 
 
-👉 My involvement in Data Science goes back to 2019 when I started learning Python (I did go down the R vs Python existential yes, and guess what :P ), Statistics and Machine Learning, building small projects and honing my skills.
+👉 My involvement in Data Science goes back to 2019 when I started learning Python (I did go down the R vs Python existential yes, and guess what :P ), Statistics and Machine Learning, building small projects on the side and honing my skills.
 
 👉This unique blend of soft and technical skills is my sweet spot: it allows me to bridge the gap (⚖) between the Business and Analytics teams, switch gears as required in order to bring critical projects over the line and deliver great value to my Clients!
 
