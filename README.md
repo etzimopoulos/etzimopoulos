@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Git, Python Software Engineering and Crypto 
 - 👯 I’m looking to collaborate on Open Source projects within the Analytics space
 - 🤔 I’m looking for help with my Software Engineering skills (I'm still learning)
-- 📫 Reach out to on Twitter [![Twitter][twitter_logo]] or LinkedIn [![LinkedIn][Lin_logo]] 
+- 📫 Reach out to me on Twitter [![Twitter][twitter_logo]] or LinkedIn [![LinkedIn][Lin_logo]] 
 
 <!-- Icons -->
 [twitter_logo]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
